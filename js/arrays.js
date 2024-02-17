@@ -1,7 +1,7 @@
-//Ubicamos elementos dentro del DOM
+
 const citas = document.querySelector('#citas');
 
-// declaramos el array
+
 const marcas = [
     'Hermés', 'Zara', 'Boss', 
     'Aeropostale', 'Tommy', 'Hollister',
@@ -9,5 +9,5 @@ const marcas = [
     ];
 console.log(marcas);
 
-//document.write(marcas);
+
 citas.innerText = marcas[0];
