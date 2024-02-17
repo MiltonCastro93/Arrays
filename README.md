@@ -1,2 +1,2 @@
 # Arrays
-using Arrays
+using Arrays to models
